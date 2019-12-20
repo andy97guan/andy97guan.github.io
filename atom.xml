@@ -38,4 +38,25 @@
     
   </entry>
   
+  <entry>
+    <title>Hexo博客新建文章并发布</title>
+    <link href="https://andy97guan.github.io/2018/12/06/test1/"/>
+    <id>https://andy97guan.github.io/2018/12/06/test1/</id>
+    <published>2018-12-06T17:16:12.000Z</published>
+    <updated>2019-12-20T16:48:43.675Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="搭建博客" scheme="https://andy97guan.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo" scheme="https://andy97guan.github.io/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="https://andy97guan.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
 </feed>
