@@ -5,9 +5,9 @@
   <subtitle>学习、生活记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://andy97guan.github.io/"/>
   <updated>2019-12-20T06:49:18.903Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://andy97guan.github.io/</id>
   
   <author>
     <name>Andy Guan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/12/20/hello-world/"/>
-    <id>http://yoursite.com/2019/12/20/hello-world/</id>
+    <link href="https://andy97guan.github.io/2019/12/20/hello-world/"/>
+    <id>https://andy97guan.github.io/2019/12/20/hello-world/</id>
     <published>2019-12-20T06:49:18.902Z</published>
     <updated>2019-12-20T06:49:18.903Z</updated>
     
